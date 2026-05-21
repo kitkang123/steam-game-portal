@@ -1,0 +1,108 @@
+[
+  {
+    "weekId": "2026-W21",
+    "date": "2026-05-21",
+    "games": [
+      {
+        "rank": 1,
+        "appid": "1245620",
+        "title": "Elden Ring",
+        "url": "https://store.steampowered.com/app/1245620/ELDEN_RING",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg",
+        "originalPrice": "$59.99",
+        "currentPrice": "$59.99",
+        "discountPercent": "",
+        "review": {
+          "gameplayHighlights": [
+            "无比壮丽且无缝连接的开放世界「交界地」，充满了探索的惊喜与危险。",
+            "极具深度和挑战性的动作战斗系统，支持丰富的武器、魔法和骨灰召唤搭配。"
+          ],
+          "beginnerHeadache": "刚出新手村就遇到强大的大树守卫，或者被复杂的地图路线和高难度小怪劝退，频繁死亡。",
+          "beginnerSolution": "避开初始的大树守卫，先往南探索泣哭半岛累积圣杯滴露和黄金种子。多利用「骨灰」分担仇恨，探索地牢获取基础装备后再挑战主线。",
+          "endingCTA": "准备好踏上艾尔登之王的长征了吗？赶快点击下方按钮查看 Humble Bundle 最新的史低折扣和超值促销吧！",
+          "summaryArticle": "《艾尔登法环》本周重回热销榜首。其核心玩法亮点在于令人惊叹且细节丰富的无缝开放世界设计，每一次探索都充满未知的奖励；同时，极致扎实的动作战斗配合宏大的史诗级Boss战，给玩家带来无与伦比的成就感。然而，新手玩家往往在刚踏入交界地时，就因为头铁挑战大树守卫或迷失方向而频繁暴毙。建议大家初期避开强力门神，先去南方的泣哭半岛收集强化道具，并善用骨灰召唤来分散敌人的注意力。如果你想体验这部神作，现在就是绝佳时机！赶快点击按钮前往 Humble Bundle 查看最新的优惠价格与独家活动，开启你的受死与加冕之旅！"
+        }
+      },
+      {
+        "rank": 2,
+        "appid": "553850",
+        "title": "Helldivers 2",
+        "url": "https://store.steampowered.com/app/553850/HELLDIVERS_2",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/553850/header.jpg",
+        "originalPrice": "$39.99",
+        "currentPrice": "$39.99",
+        "discountPercent": "",
+        "review": {
+          "gameplayHighlights": [
+            "紧张刺激且极具幽默感的第三人称联机射击，主打高难度团队协作。",
+            "强大的「战略配备」召唤系统，可呼叫空投轰炸、重武器和补给，场面宏大。"
+          ],
+          "beginnerHeadache": "频繁被队友的空袭和流弹误杀（Friendly Fire），或者因为走位不慎被无穷无尽的虫潮包围淹没。",
+          "beginnerSolution": "时刻保持移动，千万不要原地硬扛。扔轰炸信标前观察队友位置并开麦或标记提醒，多带能够清理群怪的飞鹰空袭或榴弹发射器。",
+          "endingCTA": "为了超级地球与民主！快来查看 Humble Bundle 最新的联机折扣，与战友一起加入战斗吧！",
+          "summaryArticle": "《绝地潜兵2》以其独特的黑色幽默和高强度联机体验征服了无数玩家。游戏的核心亮点是火爆的第三人称虫潮大战，搭配可以随时呼叫强力轨道轰炸的「战略配备」系统，战局瞬息万变。不过，新手潜兵最头疼的莫过于无穷无尽的怪物包围以及被队友“善意”的流弹误杀。记住，在民主的战场上保持移动就是生命，使用大范围轰炸前务必做好警示。为了超级地球的荣耀，别再犹豫了！赶快点击下方链接，看看 Humble Bundle 目前是否有最新的降价优惠，拉上你的好兄弟一起降落战场！"
+        }
+      },
+      {
+        "rank": 3,
+        "appid": "1145360",
+        "title": "Hades II",
+        "url": "https://store.steampowered.com/app/1145360/Hades_II",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg",
+        "originalPrice": "$29.99",
+        "currentPrice": "$29.99",
+        "discountPercent": "",
+        "review": {
+          "gameplayHighlights": [
+            "丰富神话背景下的超流畅巫术动作Roguelike，操作极具美感与打击感。",
+            "由众神恩赐与月影巫术构成的上百种BUILD组合，每次开局体验截然不同。"
+          ],
+          "beginnerHeadache": "对于弹幕密集的关卡Boss难以应对，闪避时机把握不准，几轮房间后血量见底。",
+          "beginnerSolution": "优先升级墨利诺厄的法阵以实现控怪，善用「奔跑」而非连续闪避，在基地中优先解锁能复活和加血的冥府古物。",
+          "endingCTA": "想要协助冥界公主复仇吗？点击下方按钮获取 Humble Bundle 最新优惠，折返冥府！",
+          "summaryArticle": "《哈迪斯2》承袭了前作的极高水准，带玩家走进更神秘的巫术世界。华丽的战斗动作设计和快节奏的打击感是其最大的玩法亮点；而由希腊众神恩赐和全新法阵构成的深度养成BUILD，更是让每局游戏都充满新鲜感。不少新玩家面对漫天弹幕和高伤Boss时，常因乱按闪避占手迅速白给。攻略建议是多利用法阵的定身效果进行拉扯，通过长按闪避键进行平稳的「奔跑」来规避伤害。复仇的号角已经吹响，点击下方按钮了解 Humble Bundle 最新的特惠情报，用最划算的价格加入这场冥界大战！"
+        }
+      },
+      {
+        "rank": 4,
+        "appid": "730",
+        "title": "Counter-Strike 2",
+        "url": "https://store.steampowered.com/app/730/CounterStrike_2",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+        "originalPrice": "Free to Play",
+        "currentPrice": "Free to Play",
+        "discountPercent": "",
+        "review": {
+          "gameplayHighlights": [
+            "全球最纯粹的5v5竞技战术射击，全新的起源2引擎带来拟真的动态烟雾效果。",
+            "极致考验枪法、投掷物配合与团队战术的排位竞技体验。"
+          ],
+          "beginnerHeadache": "急停开枪枪子弹乱飘，完全打不到人，且由于不熟悉地图点位和报点，一露头就被击杀。",
+          "beginnerSolution": "在射击前必须完全停稳（松开移动键或反向点按），并在创意工坊中练习急停与常用封烟点位，多看小地图配合队友。",
+          "endingCTA": "虽然游戏免费，但购买优先包有惊喜！点击下方链接查看 Humble Bundle 相关游戏点卡与饰品大礼包的精彩优惠吧！",
+          "summaryArticle": "《反恐精英2》代表了现代战术射击的巅峰。全新物理引擎带来的动态烟雾交互让战术更具变数，而一如既往的核心枪硬竞技和经济系统依然让人欲罢不能。然而，射击新手的最大痛点是急停掌握不好导致弹道偏移，以及不熟悉地图屡遭暗算。建议在练习场中专项练习“反向急停”开火，并熟记核心点位。虽然本作可以免费畅玩，但购买优先状态能带来更多掉落福利。赶紧点击下方按钮，去 Humble Bundle 看看是否有精选的 Steam 充值卡或周边优惠，提升你的竞技档次！"
+        }
+      },
+      {
+        "rank": 5,
+        "appid": "1363080",
+        "title": "Manor Lords",
+        "url": "https://store.steampowered.com/app/1363080/Manor_Lords",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1363080/header.jpg",
+        "originalPrice": "$39.99",
+        "currentPrice": "$29.99",
+        "discountPercent": "-25%",
+        "review": {
+          "gameplayHighlights": [
+            "极其硬核且细节写实的中世纪城市建造模拟，支持高精度微观细节缩放。",
+            "融合全战式战术战役，领主需要招募民兵防御土匪并扩张领土。"
+          ],
+          "beginnerHeadache": "第一年冬天因为没有储存足够的食物和柴火导致领民大量冻死、饿死，民意崩盘。",
+          "beginnerSolution": "在夏季和秋季优先建立「浆果采集屋」和「狩猎营地」，并在入冬前分配充足人手到「伐木工小屋」囤积柴火，建造仓库防雨。",
+          "endingCTA": "准备好统治你的中世纪领地了吗？点击下方按钮享受 Humble Bundle 最新史低特惠，打造你的宏伟城镇！",
+          "summaryArticle": "《庄园领主》将精细的网格化中世纪建造和宏大的即时战术战役完美结合。玩家既能体验手工作坊式的微观打理，又能指挥民兵进行领土争夺。新手玩家面临的最大考验就是第一个严冬——食物匮乏、燃料断供，甚至一场大雨淋湿物资就会让支持率跌入谷底。避坑指南是在春夏期间全力运转浆果采集与打猎，并在秋末调配人手大量伐木囤积薪柴。庄园的发展需要智慧的领主，立刻点击下方按钮去 Humble Bundle 探索最新的超值折扣，用最划算的价格建立属于你的封建帝国！"
+        }
+      }
+    ]
+  }
+]
